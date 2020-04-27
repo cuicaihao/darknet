@@ -1,8 +1,8 @@
 # add extra file path
 models/*.weights
 obj/
-
-
+*.a
+*.so
 *.o
 *.dSYM
 *.csv

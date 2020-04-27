@@ -24,6 +24,9 @@ cfg/
 darknet
 .fuse*
 
+!results/*.jpg
+!results/*.png
+
 # OS Generated #
 .DS_Store*
 ehthumbs.db

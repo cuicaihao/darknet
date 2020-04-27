@@ -105,8 +105,9 @@ bicycle: 99%
 dog: 99%
 ```
 
-You will find a 'predictions.png' image with bounding boxes of a dog, a bicycle and truck in the current folder.
-![dog predictions](./results/dog.yolov3.prediction.png)
+You will find a `predictions.png` image with bounding boxes of a dog, a bicycle and truck in the current folder.
+
+![dog predictions](./results/dog.yolov3.prediction.png " ")
 
 ## Compiling with CUDA
 
